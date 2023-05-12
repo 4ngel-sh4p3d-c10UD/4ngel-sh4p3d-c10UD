@@ -8,7 +8,7 @@
       <b>
         Hello World!
       <br>
-        I'm 4ngel-sh4p3d-c10UD, a cybersecurity Researcher, I like Penguins.
+        I'm 4ngel-sh4p3d-c10UD, a Cybersecurity Researcher, I like Penguins.
         <pre>
 							     ^',,''',,
 							  (\ |,  ,''   /)
